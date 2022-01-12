@@ -8,3 +8,9 @@ We use the MALT90 Dataset (Rathborne et al., 2016), downloaded from [Swinburne H
 
 ### 2. Data Cleaning
 We use the Gim images, assigned into classes for model training, and preprocessed by eliminating the border and split into train, validation, and test dataset. 
+
+### 3. Data Augmentation
+We use albumentation for training data augmentation
+
+### 4. Training
+Keras is used to train deep learning model
